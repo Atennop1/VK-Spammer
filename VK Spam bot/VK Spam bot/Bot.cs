@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using VkNet;
 using VkNet.Model;
 using System.Text;
@@ -12,27 +12,29 @@ public class Program
     [Obsolete]
     public static void Main(string[] args)
     {
-        Bot bot = new Bot("TOKEN OF GROUP");
-        bot.Activate(ID OF GROUP);
+        Bot bot = new Bot("Token of group", ID of group);
+        bot.Activate();
     }
 }
 
 public class Bot
 {
     private readonly VkApi _api;
+    private readonly ulong _id;
 
-    public Bot(string token)
+    public Bot(string token, ulong id)
     {
         _api = new VkApi();
+        _id = id;
         _api.Authorize(new ApiAuthParams() { AccessToken = token });
     }
 
     [Obsolete]
-    public void Activate(ulong id)
+    public void Activate()
     {
         while (true)
         {
-            LongPollServerResponse server = _api.Groups.GetLongPollServer(id);
+            LongPollServerResponse server = _api.Groups.GetLongPollServer(_id);
             BotsLongPollHistoryResponse poll = _api.Groups.GetBotsLongPollHistory(
                 new BotsLongPollHistoryParams()
                 {
