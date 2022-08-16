@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\VK Spam bot.exe
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\VK Spam bot.deps.json
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\VK Spam bot.runtimeconfig.json
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\VK Spam bot.runtimeconfig.dev.json
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\VK Spam bot.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\VK Spam bot.pdb
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\VkNet.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.AssemblyInfo.cs
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.csproj.CopyComplete
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.dll
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.pdb
+C:\Users\User\source\repos\VK Spam bot\VK Spam bot\obj\Debug\netcoreapp3.1\VK Spam bot.genruntimeconfig.cache
