@@ -12,10 +12,8 @@ public class Program
     [Obsolete]
     public static void Main(string[] args)
     {
-        Bot bot = new Bot("vk1.a.UoHRbzoZYnMsMCriuEvX7fLT1EXyGyZ0QYIfHBhPt6yZqV6596mwQfnbuqEUibG24eQ6Qux6c2KXs" +
-                          "1GkI2lx0qaNggQXs8DTmzyCJO9nzZ6_y37aLA6qeNqVje_kAm51CMdNDsM9qGpwocLfx0GndiQAESWFR3F9" +
-                           "uXw55b_PPG8MfX0ZnxrQnFYW-z1rjCSy");
-        bot.Activate(198111421);
+        Bot bot = new Bot("TOKEN OF GROUP");
+        bot.Activate(ID OD GROUP);
     }
 }
 
