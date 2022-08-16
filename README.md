@@ -1,5 +1,7 @@
 # VK-Spammer
-That a spam bot for VK. To use it, you need to download the Bot.py file and paste the community token and its ID into it. How to do this - look on the Internet.
+This is a spam bot for VK. To use it, you need to download the "Vk Spam bot" folder, run the project in Visual Studio and paste the community token and ID instead of the inscriptions in the "Main" method into the "Bot.cs" file. 
+How to get a community token and ID? You can find this information on the Internet.
+
 # Okay, what next?
 You need to run the edited file, and then invite the bot to the VK group and enter the command. 
 
