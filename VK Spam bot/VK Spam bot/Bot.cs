@@ -13,7 +13,7 @@ public class Program
     public static void Main(string[] args)
     {
         Bot bot = new Bot("TOKEN OF GROUP");
-        bot.Activate(ID OD GROUP);
+        bot.Activate(ID OF GROUP);
     }
 }
 
