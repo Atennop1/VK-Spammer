@@ -10,8 +10,8 @@ namespace SpamBot
     {
         public static void Main(string[] args)
         {
-            string token = "vk1.a.UoHRbzoZYnMsMCriuEvX7fLT1EXyGyZ0QYIfHBhPt6yZqV6596mwQfnbuqEUibG24eQ6Qux6c2KXs1GkI2lx0qaNggQXs8DTmzyCJO9nzZ6_y37aLA6qeNqVje_kAm51CMdNDsM9qGpwocLfx0GndiQAESWFR3F9uXw55b_PPG8MfX0ZnxrQnFYW-z1rjCSy";
-            ulong id = 198111421;
+            string token = "TOKEN OF COMMUNITY";
+            ulong id = ID OF COMMUNITY;
 
             VkApi api = new VkApi();
             api.Authorize(new ApiAuthParams() { AccessToken = token });
